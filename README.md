@@ -76,6 +76,6 @@ Copyright (c) 2026 scorevi. All rights reserved. See [LICENSE.md](LICENSE.md).
 
 ## Credits
 
-- [Timeless and Classics Zero (TaCZ)](https://github.com/MCModderAnchor/TACZ) — MCModderAnchor and the TaCZ team
-- [KubeJS](https://github.com/KubeJS-Mods/KubeJS) — LatvianModder
-- [GunsmithLib](https://github.com/ChloePrime/GunsmithLib) — ChloePrime
+- [Timeless and Classics Zero (TaCZ)](https://github.com/MCModderAnchor/TACZ) - MCModderAnchor and the TaCZ team
+- [KubeJS](https://github.com/KubeJS-Mods/KubeJS) - LatvianModder
+- [GunsmithLib](https://github.com/ChloePrime/GunsmithLib) - ChloePrime
