@@ -30,6 +30,12 @@ Built for native TaCZ 1.21.1 (1.2.0+). No LootJS and no extra gun mods required.
 - **Progression:** catalysts, donor-level inheritance, level-scaled stats, and one-shot ability identity rolls.
 - **Pack-friendly:** rates, weights, chances, caps, catalysts, and ability gates are configurable.
 
+## Gun Pack Compatibility
+
+* **What is included:** The release archive contains only the KubeJS scripts. Third-party TaCZ gun packs are not bundled in the download.
+* **Default support:** Works out of the box with the built-in **Timeless and Classics Zero** gun pack.
+* **Additional gun packs:** The loot tables and anvil fusion system detect loaded TaCZ firearms automatically, so any extra gun packs you add to your instance (such as the 3-pack, 213-gun setup shown in the showcase videos) will work without extra setup.
+
 ## Showcase Videos
 
 ### TaCZ: Anvil Fusion - Proof of Concept
