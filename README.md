@@ -117,17 +117,18 @@ A: Not planned. Time will tell.
 
 Q: Do you have discord server?
 
-A: None at the moment, I'm strictly on forums or YouTube.
+A: None at the moment, probably will not have one I'm strictly on forums or YouTube.
 
 Q: Can you add 'x' feature?
 
-A: No, unless it is viable and innovative, and of course in-demand.
+A: No, unless it is viable and innovative, and of course in-demand. And really depends on how busy I am in the real world.
 
 Q: World bugged out or item isn't outputting, glitching or has weird UI bugs on the guns
 
 A: **Refer to the documentation first before opening an issue unless your logs show KubeJS errors.** About the guns' attachment bugging out, that's normal and expected if you welded a non-native, unsupported attachment to the gun. Anything about gun packs' weapon balancing or attachment issue, I'm off-limits. I only provide the foundation.
 
 Q: Will it conflict with 'x' mod?
+
 A: No since it isn't a java mod. If it conflicts with a pack's KubeJS script, be warned I may not provide support for that.
 
 ## AI Usage Disclosure
