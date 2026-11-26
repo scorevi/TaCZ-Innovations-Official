@@ -1,4 +1,4 @@
-# TaCZ Innovations
+<img width="1465" height="904" alt="image" src="https://github.com/user-attachments/assets/0d4036e3-d1cd-453d-afe7-ef6f0ce95dca" /># TaCZ Innovations
 
 **Global loot table for guns and ammo, smart mob ammo drops, and anvil kitbashing for Timeless and Classics Zero (TaCZ).**
 
@@ -83,6 +83,7 @@ Include Minecraft, NeoForge, KubeJS, TaCZ, and GunsmithLib versions, your gun pa
 
 ## AI Usage Disclosure
 
+Ah yes, the most **important** out of all sections listed here since the rise of uncanny slop.
 **The core concept, system design, scaling math, mod ecosystem research, in-game playtesting, and balance tuning for this addon were created manually by the author.**
 
 AI tools were used in a light-to-moderate capacity for:
