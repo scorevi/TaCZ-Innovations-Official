@@ -99,13 +99,36 @@ More demonstrations and updates are posted on YouTube at [@scorevi](https://www.
 - [Player guides](docs/README.md#players)
 - [Pack creator guides](docs/README.md#pack-creators)
 
-## Support
+## Support and FAQ
 
 Use the GitHub issue tracker:
 
 **https://github.com/scorevi/TaCZ-Innovations-Official/issues**
 
 Include Minecraft, NeoForge, KubeJS, TaCZ, and GunsmithLib versions, your gun pack/addon list, the relevant `latest.log` section, and reproduction steps.
+
+Q: Will you upload this addon to **CurseForge** or Modrinth?
+
+A: At the right time, so give me a break :)
+
+Q: Can you port this as a Java mod or do a backport?
+
+A: Not planned. Time will tell.
+
+Q: Do you have discord server?
+
+A: None at the moment, I'm strictly on forums or YouTube.
+
+Q: Can you add 'x' feature?
+
+A: No, unless it is viable and innovative, and of course in-demand.
+
+Q: World bugged out or item isn't outputting, glitching or has weird UI bugs on the guns
+
+A: **Refer to the documentation first before opening an issue unless your logs show KubeJS errors.** About the guns' attachment bugging out, that's normal and expected if you welded a non-native, unsupported attachment to the gun. Anything about gun packs' weapon balancing or attachment issue, I'm off-limits. I only provide the foundation.
+
+Q: Will it conflict with 'x' mod?
+A: No since it isn't a java mod. If it conflicts with a pack's KubeJS script, be warned I may not provide support for that.
 
 ## AI Usage Disclosure
 
