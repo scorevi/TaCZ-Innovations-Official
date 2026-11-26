@@ -9,6 +9,8 @@ It adds TaCZ guns and attachments to structure loot from all kinds of vanilla an
 ### Why I've built this 
 The sole reason why I made these mods is because I've been long wanted to explore untapped, a bit unconventional capabilities of TaCZ that can be adapted anywhere with various gunpacks, where in it actually improves the gun and attachment stats natively without going onto extremes or traditional crafting recipes, **have its own identity** and avoiding that generic feeling, something the mainstream addons existing in the modding platforms are lacking. Although, you can have the progressive feeling back by levering a switch in the config.
 
+Also stay tuned occasionally for new features and bug fixes, let's make quality!!
+
 ## Screenshots (not limited to)
 
 ### Anvil Kitbashing
