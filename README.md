@@ -6,7 +6,7 @@ A modular set of KubeJS server scripts for Minecraft 1.21.1 / NeoForge. They add
 
 Built for native TaCZ 1.21.1 (1.2.0+). No LootJS and no extra gun mods required.
 
-> **Documentation scope:** Only the public configuration and gameplay are documented here. Internal implementation is intentionally not documented.
+> **Documentation scope:** Only the public configuration and gameplay are documented here.
 
 ## Install
 
