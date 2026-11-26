@@ -21,9 +21,9 @@ A bare gun is common. A fully kitted six-attachment gun is a rare find.
 
 ## Jury-Rigged guns
 
-Jury-Rigged parts are off-whitelist attachments that stay attached to their parent gun. The part is marked in the tooltip and stays locked through reloads. The rest of the gun remains yours to customize.
+**Jury-Rigged** parts are off-whitelist attachments that stay attached to their parent gun. The part is marked in the tooltip and stays locked through reloads. The rest of the gun remains yours to customize.
 
-Off-spec parts only roll into slots the gun can actually mount (the same slots the refit screen shows as usable), and native/integral attachments are never used as jury-rig parts — so a Jury-Rigged gun always has a part you can see.
+Off-spec parts only roll into slots the gun can **actually mount** (the same slots the refit screen shows as usable), and native/integral attachments are **never** used as jury-rig parts so a Jury-Rigged gun always has a part you can see.
 
 ## Practical tips
 
