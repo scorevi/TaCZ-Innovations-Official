@@ -2,13 +2,13 @@
 
 **Global loot table for guns and ammo, smart mob ammo drops, and anvil kitbashing for Timeless and Classics Zero (TaCZ).**
 
-A modular set of KubeJS server scripts for Minecraft 1.21.1 / NeoForge, exclusively made for single-player only. They add TaCZ guns and attachments to structure loot, keep players supplied with ammo, and turn the anvil into a kitbashing bench with fusion levels, catalysts, and level-scaled abilities.
+A modular set of KubeJS server scripts for Minecraft 1.21.1 / NeoForge, exclusively made for **single-player** only. They add TaCZ guns and attachments to structure loot, keep players supplied with ammo, and turn the anvil into a kitbashing bench with fusion levels, catalysts, and level-scaled abilities.
 
 Built for native TaCZ 1.21.1 (1.2.0+). No LootJS and no extra gun mods required.
 
 > **Documentation scope:** Only the public configuration and gameplay are documented here.
 
-Why I've built this: The sole reason why I made these mods is because I've been long wanted to explore untapped, a bit unconventional capabilities of TaCZ that can be adapted anywhere with various gunpacks, where in it actually improves the gun and attachment stats natively without going onto extremes or traditional recipes, **have its own identity** and avoiding that generic feeling, something the mainstream addons existing in the modding platforms are lacking.
+Why I've built this: The sole reason why I made these mods is because I've been long wanted to explore untapped, a bit unconventional capabilities of TaCZ that can be adapted anywhere with various gunpacks, where in it actually improves the gun and attachment stats natively without going onto extremes or traditional crafting recipes, **have its own identity** and avoiding that generic feeling, something the mainstream addons existing in the modding platforms are lacking.
 
 ## Install
 
