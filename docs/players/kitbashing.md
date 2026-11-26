@@ -53,13 +53,13 @@ Fusion can transfer damage, armor pierce, headshot damage, pierce, spread, recoi
 
 ## Abilities
 
-Fused guns can develop colored `Ability:` lines, but an ability is an identity, not a guarantee — a fused gun may end up with none, one, or several:
+Fused guns can develop colored `Ability:` lines, but an ability is an identity, not a guarantee. A fused gun may end up with none, one, or several:
 
 - **Smart Lock**: curves bullets toward a target. `aim` favors the crosshair; `nearest` favors the closest hostile. Available from the first fusion.
 - **Explosive Rounds**: adds an impact explosion. Unlocks around fusion level 5; you can also guarantee it by fusing a natively explosive donor.
 - **Elemental Rounds**: adds on-hit effects such as fire, poison, weakness, slowness, or glowing. Unlocks around fusion level 9 and arrives with a set of effects.
 
-Each ability is decided **once**, at the fusion that reaches its unlock level, and is final — a gun that misses never gets it, and reloading cannot reroll it. Rarer abilities make each fused gun's identity matter.
+Each ability is decided **once**, at the fusion that reaches its unlock level, and is fina. A gun that misses never gets it, and reloading cannot reroll it. Rarer abilities make each fused gun's identity matter.
 
 Abilities grow stronger the further you fuse: a higher-level gun detonates harder (Explosive radius/damage scale with fusion level) and holds more Elemental effects (one at unlock, then one more every few levels).
 
