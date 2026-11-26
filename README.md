@@ -66,8 +66,9 @@ More demonstrations and updates are posted on YouTube at [@scorevi](https://www.
 ## Compatibility
 
 - Single-player / integrated-server scope; kitbash is guarded off on dedicated servers by default.
-- TaCZ APIs are version-sensitive — pin and test before updating a pack.
+- TaCZ APIs are version-sensitive, pin and test before updating a pack.
 - The three scripts are independent; use any subset.
+- No backports planned for 1.20.1 and older TaCZ versions.
 
 ## License
 
