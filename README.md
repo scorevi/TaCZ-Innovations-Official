@@ -73,6 +73,17 @@ More demonstrations and updates are posted on YouTube at [@scorevi](https://www.
 - The three scripts are independent; use any subset.
 - No backports planned for 1.20.1 and older TaCZ versions, only current and upcoming future versions will be supported!
 
+## AI Usage Disclosure
+
+The core concept, system design, scaling math, mod ecosystem research, in-game playtesting, and balance tuning for this addon were created manually by the author.
+
+AI tools were used in a light-to-moderate capacity for:
+* **Repetitive code and configuration structure:** Generating boilerplate patterns and laying out editable `CONFIG` blocks.
+* **Release packaging scripts:** Automating comment stripping and zip packaging for public builds.
+* **English documentation:** Editing grammar and phrasing in `README.md` and `docs/` as a non-native English speaker.
+
+Every script, formula, and configuration value was manually reviewed, adjusted, and verified in-game before release. No AI-generated images, icons, or video assets are used anywhere in this project.
+
 ## License
 
 Copyright (c) 2026 SP SCOREVI. All rights reserved. See [LICENSE.md](LICENSE.md).
