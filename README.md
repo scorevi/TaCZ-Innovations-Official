@@ -34,6 +34,20 @@ Regular anvil is primarily used for weapon fusions and welding. No custom or spe
 <img width="837" height="523" alt="image" src="https://github.com/user-attachments/assets/2ff76a72-c12b-44b1-ade1-e3a708edb414" />
 <img width="1250" height="707" alt="image" src="https://github.com/user-attachments/assets/41a79efd-f5b2-4d37-8e4f-f518d968af2b" />
 
+## Requirements
+
+- Minecraft 1.21.1 / NeoForge 21.1.x
+- KubeJS 2101.7.x
+- Official TaCZ 1.21.1 (1.2.0+)
+- At least one gun pack (Note: TaCZ already includes a default pack)
+- Optional: GunsmithLib 7.1.3+ for fusion abilities (fusion and loot still work without it)
+
+## Compatibility
+
+- Single-player / integrated-server scope; kitbash is guarded off on dedicated servers by default. No plans for multiplayer support.
+- TaCZ APIs are version-sensitive, pin and test before updating a pack.
+- The three scripts are independent; use any subset.
+- No backports planned for 1.20.1 and older TaCZ versions, only current and upcoming future versions will be supported!
 
 ## Install
 
@@ -77,26 +91,11 @@ https://www.youtube.com/watch?v=SygBga3-XLI
 
 More demonstrations and updates are posted on YouTube at [@scorevi](https://www.youtube.com/@scorevi). My uploads will be occasional, so don't expect some regular schedule :>
 
-## Requirements
-
-- Minecraft 1.21.1 / NeoForge 21.1.x
-- KubeJS 2101.7.x
-- Official TaCZ 1.21.1 (1.2.0+)
-- At least one gun pack (Note: TaCZ already includes a default pack)
-- Optional: GunsmithLib 7.1.3+ for fusion abilities (fusion and loot still work without it)
-
 ## Documentation
 
 - [Documentation index](docs/README.md)
 - [Player guides](docs/README.md#players)
 - [Pack creator guides](docs/README.md#pack-creators)
-
-## Compatibility
-
-- Single-player / integrated-server scope; kitbash is guarded off on dedicated servers by default. No plans for multiplayer support.
-- TaCZ APIs are version-sensitive, pin and test before updating a pack.
-- The three scripts are independent; use any subset.
-- No backports planned for 1.20.1 and older TaCZ versions, only current and upcoming future versions will be supported!
 
 ## Support
 
