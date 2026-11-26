@@ -10,6 +10,28 @@ Built for native TaCZ 1.21.1 (1.2.0+). No LootJS and no extra gun mods required.
 
 Why I've built this: The sole reason why I made these mods is because I've been long wanted to explore untapped, a bit unconventional capabilities of TaCZ that can be adapted anywhere with various gunpacks, where in it actually improves the gun and attachment stats natively without going onto extremes or traditional crafting recipes, **have its own identity** and avoiding that generic feeling, something the mainstream addons existing in the modding platforms are lacking.
 
+## Screenshots (not limited to)
+
+### Gun + Gun Fusion
+<img width="932" height="681" alt="image" src="https://github.com/user-attachments/assets/bfaf7732-3cba-44a2-8983-d9a1a2ad45f1" />
+<img width="1882" height="974" alt="image" src="https://github.com/user-attachments/assets/9d417c3c-8b0c-451c-8bfa-13b71fb4640a" />
+
+### Attachment + Attachment Fusion (WIP)
+<img width="807" height="544" alt="image" src="https://github.com/user-attachments/assets/6ac030ef-fcf2-4cb8-95fb-e3d627532ba0" /> 
+
+### Gun + Attachment Fusion (WIP)
+
+**Warning: Gun may show weird attachment positional issues when welded with Jury-Rigged (off-spec) attachments. Once an attachment fusion is applied to a gun, it is permanently attached. It cannot be detached.**
+
+**Jury-rigged welded gun:**
+
+<img width="712" height="574" alt="image" src="https://github.com/user-attachments/assets/e4814366-bf2c-4161-9008-0feda3dd4c23" />
+
+**Normal attachment welded gun:**
+<img width="837" height="523" alt="image" src="https://github.com/user-attachments/assets/2ff76a72-c12b-44b1-ade1-e3a708edb414" />
+<img width="1250" height="707" alt="image" src="https://github.com/user-attachments/assets/41a79efd-f5b2-4d37-8e4f-f518d968af2b" />
+
+
 ## Install
 
 1. Download the latest release '.zip' located at the right sidebar of this page.
