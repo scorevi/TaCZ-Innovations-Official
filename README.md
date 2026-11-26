@@ -83,14 +83,14 @@ Include Minecraft, NeoForge, KubeJS, TaCZ, and GunsmithLib versions, your gun pa
 
 ## AI Usage Disclosure
 
-The core concept, system design, scaling math, mod ecosystem research, in-game playtesting, and balance tuning for this addon were created manually by the author.
+**The core concept, system design, scaling math, mod ecosystem research, in-game playtesting, and balance tuning for this addon were created manually by the author.**
 
 AI tools were used in a light-to-moderate capacity for:
 * **Repetitive code and configuration structure:** Generating boilerplate patterns and laying out editable `CONFIG` blocks.
 * **Release packaging scripts:** Automating comment stripping and zip packaging for public builds.
-* **English documentation:** Editing grammar and phrasing in `README.md` and `docs/` as a non-native English speaker.
+* **English documentation:** Editing grammar and phrasing in `README.md` and `docs/` as a non-native English speaker (I'm from SE Asia).
 
-Every script, formula, and configuration value was manually reviewed, adjusted, and verified in-game before release. No AI-generated images, icons, or video assets are used anywhere in this project.
+Every script, formula, and configuration value was manually reviewed, adjusted, and verified in-game before release. No AI-generated images, icons, or video assets are used anywhere in this project, not even the showcases.
 
 ## License
 
