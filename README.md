@@ -44,17 +44,18 @@ Early demonstration of combining weapons at the anvil and scaling base stats.
 https://www.youtube.com/watch?v=NiuoTjjG1I0&pp=0gcJCUYIAYcqIYzv
 
 ### TaCZ: Bizarre Trifecta
-Gameplay showcase testing fused weapon setups and attachment combinations in combat. Currently, only gun-gun fusion is enabled since attachment-attachment and gun-attachment fusions are work-in-progress.
+Gameplay showcase testing fused weapon setups and attachment combinations in combat. Currently, only gun-gun fusion is enabled since attachment-attachment and gun-attachment fusions are work-in-progress and highly experimental, may contain bugs.
 
 https://www.youtube.com/watch?v=SygBga3-XLI
 
-More demonstrations and updates are posted on YouTube at [@scorevi](https://www.youtube.com/@scorevi).
+More demonstrations and updates are posted on YouTube at [@scorevi](https://www.youtube.com/@scorevi). My uploads will be occasional, so don't expect some regular schedule :>
 
 ## Requirements
 
 - Minecraft 1.21.1 / NeoForge 21.1.x
 - KubeJS 2101.7.x
-- Native TaCZ 1.21.1 (1.2.0+) and at least one gun pack
+- Official TaCZ 1.21.1 (1.2.0+)
+- At least one gun pack (Note: TaCZ already includes a default pack)
 - Optional: GunsmithLib 7.1.3+ for fusion abilities (fusion and loot still work without it)
 
 ## Documentation
@@ -65,14 +66,14 @@ More demonstrations and updates are posted on YouTube at [@scorevi](https://www.
 
 ## Compatibility
 
-- Single-player / integrated-server scope; kitbash is guarded off on dedicated servers by default.
+- Single-player / integrated-server scope; kitbash is guarded off on dedicated servers by default. No plans for multiplayer support.
 - TaCZ APIs are version-sensitive, pin and test before updating a pack.
 - The three scripts are independent; use any subset.
-- No backports planned for 1.20.1 and older TaCZ versions.
+- No backports planned for 1.20.1 and older TaCZ versions, only current and upcoming future versions will be supported!
 
 ## License
 
-Copyright (c) 2026 scorevi. All rights reserved. See [LICENSE.md](LICENSE.md).
+Copyright (c) 2026 SP SCOREVI. All rights reserved. See [LICENSE.md](LICENSE.md).
 
 ## Credits
 
