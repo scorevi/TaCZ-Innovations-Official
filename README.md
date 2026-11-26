@@ -1,6 +1,6 @@
 # TaCZ Innovations
 
-**An addon containing unconventional, highly experimental prototypes of enhancements for Timeless and Classics Zero (TaCZ).**
+**An addon containing unconventional prototype mods for Timeless and Classics Zero (TaCZ).**
 
 A modular, bundle of KubeJS server scripts for Minecraft 1.21.1 / NeoForge and TaCZ 1.2.0+, exclusively made for **single-player** only. 
 
