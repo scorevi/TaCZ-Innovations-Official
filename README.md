@@ -40,7 +40,7 @@ Regular anvil is primarily used for weapon fusions and welding. No custom or spe
 - KubeJS 2101.7.x
 - Official TaCZ 1.21.1 (1.2.0+)
 - At least one gun pack (Note: TaCZ already includes a default pack)
-- Optional: GunsmithLib 7.1.3+ for fusion abilities (fusion and loot still work without it)
+- Optional: GunsmithLib 7.1.3+ for **fusion abilities** (fusion and loot still work without it)
 
 ## Compatibility
 
