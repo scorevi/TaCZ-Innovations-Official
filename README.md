@@ -73,6 +73,14 @@ More demonstrations and updates are posted on YouTube at [@scorevi](https://www.
 - The three scripts are independent; use any subset.
 - No backports planned for 1.20.1 and older TaCZ versions, only current and upcoming future versions will be supported!
 
+## Support
+
+Use the GitHub issue tracker:
+
+**https://github.com/scorevi/TaCZ-Innovations-Official/issues**
+
+Include Minecraft, NeoForge, KubeJS, TaCZ, and GunsmithLib versions, your gun pack/addon list, the relevant `latest.log` section, and reproduction steps.
+
 ## AI Usage Disclosure
 
 The core concept, system design, scaling math, mod ecosystem research, in-game playtesting, and balance tuning for this addon were created manually by the author.
