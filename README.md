@@ -14,7 +14,7 @@ Why I've built this: The sole reason why I made these mods is because I've been 
 
 1. Download the latest release '.zip' located at the right sidebar of this page.
 2. Extract and copy the `kubejs/server_scripts/*` files into your instance's `kubejs/server_scripts/` folder.
-3. Restart or run `/reload`, then check `latest.log` for `Kitbash fusion loaded` with no errors.
+3. Restart or run `/reload`, then check `latest.log` to make sure they loaded properly with no errors from KubeJS.
 
 ## Modules
 
