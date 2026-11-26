@@ -75,6 +75,8 @@ Regular anvil is primarily used for weapon fusions and welding. No custom or spe
 - **Progression:** catalysts, donor-level inheritance, level-scaled stats, and one-shot ability identity rolls. Yeah diversity let's go!
 - **Pack-friendly:** rates, weights, chances, caps, catalysts, and ability gates are HIGHLY configurable. From time to time I may balance certain values out there without notice.
 
+NOTICE: The configuration's baselines are adjusted with balance according to TaCZ's default gun pack and configuration. So barebones and no 3rd-party gun packs. Though I tested these on other small to large modpacks like ATM and TNP LL8.
+
 ## Showcase Videos
 
 ### TaCZ: Anvil Fusion - Proof of Concept
