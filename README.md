@@ -1,4 +1,4 @@
-# TaCZ Innovations — Adventurer's Suite
+# TaCZ Innovations
 
 **Wildcard loot, smart mob ammo drops, and anvil kitbashing for Timeless and Classics Zero (TaCZ).**
 
