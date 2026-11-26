@@ -8,6 +8,8 @@ Built for native TaCZ 1.21.1 (1.2.0+). No LootJS and no extra gun mods required.
 
 > **Documentation scope:** Only the public configuration and gameplay are documented here.
 
+Why I've built this: The sole reason why I made these mods is because I've been long wanted to explore untapped, a bit unconventional capabilities of TaCZ that can be adapted anywhere that actually improves the arsenals' stats without going onto extremes, **have it's own identity** and avoiding that generic feeling, something the mainstream addons existing in the modding platforms is lacking.
+
 ## Install
 
 1. Download the latest release and its `kubejs/` zip.
