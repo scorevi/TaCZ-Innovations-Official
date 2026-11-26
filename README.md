@@ -147,12 +147,12 @@ Copyright (c) 2026-2027 SP SCOREVI. All rights reserved. See [LICENSE.md](LICENS
 
 ## AI Usage Disclosure
 
-Ah yes, the most **important** out of all sections listed here since the rise of uncanny slop.
+Ah yes, the most **important** out of all sections listed here since the rise of uncanny slop. I admit myself, I did use to some extent. Rather be real than sugarcoat it.
 **The core concept, system design, scaling math, mod ecosystem research, in-game playtesting, and balance tuning for this addon were created manually by me.**
+
+Every script, formula, and configuration value are manually reviewed, adjusted, and verified in-game before release. Lots of testing, lots of generic worlds out there when I want to chill out. No AI-generated images, icons, or video assets are used anywhere in this project, not even the showcases. I don't have enough funds like the bros out there to waste on such thing. Rather be doing that in Paint.NET, the old way.
 
 AI tools were used in a light-to-moderate capacity for these:
 * **Repetitive code and configuration structure:** Generating boilerplate patterns and laying out editable `CONFIG` blocks. Yeah you heard that right, I am messy with code but kinda perfectionist in some ways.
 * **Release packaging scripts:** Automating comment stripping and zip packaging for public builds. Ugh, just like assembling a damn thing.
 * **English documentation:** Editing grammar and phrasing in `README.md` and `docs/` as a non-native English speaker (I'm from SE Asia, so expect some inconsistent grammar).
-
-Every script, formula, and configuration value are manually reviewed, adjusted, and verified in-game before release. Lots of testing, lots of generic worlds out there when I want to chill out. No AI-generated images, icons, or video assets are used anywhere in this project, not even the showcases. I don't have enough funds like the bros out there to waste on such thing. Rather be doing that in Paint.NET.
