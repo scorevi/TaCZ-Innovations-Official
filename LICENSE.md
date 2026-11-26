@@ -1,4 +1,4 @@
-Copyright (c) 2026 scorevi. All Rights Reserved.
+Copyright (c) 2026 SP SCOREVI. All Rights Reserved.
 
 1. Personal Use:
 
