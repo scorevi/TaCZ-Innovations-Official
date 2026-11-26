@@ -2,9 +2,7 @@
 
 **Global loot table for guns and ammo, smart mob ammo drops, and anvil kitbashing for Timeless and Classics Zero (TaCZ).**
 
-A modular set of KubeJS server scripts for Minecraft 1.21.1 / NeoForge, exclusively made for **single-player** only. They add TaCZ guns and attachments to structure loot, keep your arsenal supplied with ammo, and turn the anvil into a kitbashing / welding bench with fusion levels, catalysts, and level-scaled abilities. Yeah who actually makes the regular anvil do something beyond it's intended job?!
-
-Built for native TaCZ 1.21.1 (1.2.0+).
+A modular set of KubeJS server scripts for Minecraft 1.21.1 / NeoForge and TaCZ 1.2.0+, exclusively made for **single-player** only. They add TaCZ guns and attachments to structure loot, keep your arsenal supplied with ammo, and turn the anvil into a kitbashing / welding bench with fusion levels, catalysts, and level-scaled abilities. Yeah who actually makes the regular anvil do something beyond it's intended job?! You serious?!
 
 Why I've built this: The sole reason why I made these mods is because I've been long wanted to explore untapped, a bit unconventional capabilities of TaCZ that can be adapted anywhere with various gunpacks, where in it actually improves the gun and attachment stats natively without going onto extremes or traditional crafting recipes, **have its own identity** and avoiding that generic feeling, something the mainstream addons existing in the modding platforms are lacking. Although, you can have the progressive feeling back by levering a switch in the config.
 
@@ -71,11 +69,11 @@ Regular anvil is primarily used for weapon fusions and welding. No custom or spe
 
 ## Highlights
 
-- **Exploration rewards:** structure chests including open ones can contain usable, customized guns with varying attachments.
-- **Loadout-aware ammo:** drops favor the gun in your hand and help when reserves are low.
-- **Anvil kitbashing:** fuse guns with ease. Welding and composites are opt-in via `CONFIG.fusionModes`.
-- **Progression:** catalysts, donor-level inheritance, level-scaled stats, and one-shot ability identity rolls.
-- **Pack-friendly:** rates, weights, chances, caps, catalysts, and ability gates are HIGHLY configurable.
+- **Exploration rewards:** structure chests including open ones can contain usable, customized guns with varying attachments. Not all the time you get so much guns out of the bat. Bonus chests are excluded.
+- **Loadout-aware ammo:** drops favor the gun in your hand and help when reserves are low. Really depends on your weapon team compositions
+- **Anvil kitbashing:** fuse guns with ease. Welding and composites are opt-in via `CONFIG.fusionModes`. If you want to experiment the unstable one, go ahead while it's in the works.
+- **Progression:** catalysts, donor-level inheritance, level-scaled stats, and one-shot ability identity rolls. Yeah diversity let's go!
+- **Pack-friendly:** rates, weights, chances, caps, catalysts, and ability gates are HIGHLY configurable. From time to time I may balance certain values out there without notice.
 
 ## Showcase Videos
 
