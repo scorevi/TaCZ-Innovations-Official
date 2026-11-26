@@ -12,7 +12,7 @@ Kitbashing turns the anvil into a gun workshop. Put compatible items in the two 
 
 The left item is the base. The right item is the donor. Both are consumed.
 
-Gun + gun is always available. The gun + attachment and attachment + attachment combinations are experimental and are only available when the pack enables them, so a pack may turn them off. Turning a combination off never changes items you already made with it — they keep working exactly as before.
+Gun + gun is always available. The gun + attachment and attachment + attachment combinations are experimental and are only available when the pack enables them, so a pack may turn them off. Turning a combination off never changes items you already made with it, they keep working exactly as before.
 
 Extended magazines are the exception: they cannot be combined into composites. A magazine's capacity comes from TaCZ's native level data, not from fusion.
 
