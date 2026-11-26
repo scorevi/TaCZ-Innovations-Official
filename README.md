@@ -2,11 +2,9 @@
 
 **Global loot table for guns and ammo, smart mob ammo drops, and anvil kitbashing for Timeless and Classics Zero (TaCZ).**
 
-A modular set of KubeJS server scripts for Minecraft 1.21.1 / NeoForge, exclusively made for **single-player** only. They add TaCZ guns and attachments to structure loot, keep players supplied with ammo, and turn the anvil into a kitbashing / welding bench with fusion levels, catalysts, and level-scaled abilities.
+A modular set of KubeJS server scripts for Minecraft 1.21.1 / NeoForge, exclusively made for **single-player** only. They add TaCZ guns and attachments to structure loot, keep your arsenal supplied with ammo, and turn the anvil into a kitbashing / welding bench with fusion levels, catalysts, and level-scaled abilities. Yeah who actually makes the regular anvil do something beyond it's intended job?!
 
-Built for native TaCZ 1.21.1 (1.2.0+). No LootJS and no extra gun mods required.
-
-> **Documentation scope:** Only the public configuration and gameplay are documented here.
+Built for native TaCZ 1.21.1 (1.2.0+).
 
 Why I've built this: The sole reason why I made these mods is because I've been long wanted to explore untapped, a bit unconventional capabilities of TaCZ that can be adapted anywhere with various gunpacks, where in it actually improves the gun and attachment stats natively without going onto extremes or traditional crafting recipes, **have its own identity** and avoiding that generic feeling, something the mainstream addons existing in the modding platforms are lacking. Although, you can have the progressive feeling back by levering a switch in the config.
 
@@ -46,10 +44,16 @@ Regular anvil is primarily used for weapon fusions and welding. No custom or spe
 
 ## Compatibility
 
-- Single-player / integrated-server scope; kitbash is guarded off on dedicated servers by default. No plans for multiplayer support.
+- Single-player and integrated-server scope; kitbash is guarded off on dedicated servers by default. No plans for multiplayer support, unless you pay me well enough to do so.
 - TaCZ APIs are version-sensitive, pin and test before updating a pack.
 - The three scripts are independent; use any subset.
-- No backports planned for 1.20.1 and older TaCZ versions, only current and upcoming future versions will be supported!
+- As indicated in the requirements. Only current and upcoming future TaCZ versions will be supported!
+
+### Gun Pack Compatibility
+
+* **Inclusions:** The release archive contains only the KubeJS scripts. Third-party TaCZ gun packs are not bundled in the download.
+* **Default support:** Works out of the box with the built-in **Timeless and Classics Zero** gun pack.
+* **Additional gun packs:** The loot tables and anvil fusion system detect loaded TaCZ firearms automatically, so any extra gun packs you add to your instance will work without extra setup.
 
 ## Install
 
@@ -59,7 +63,7 @@ Regular anvil is primarily used for weapon fusions and welding. No custom or spe
 
 ## Modules
 
-| Script | What it does |
+| Script | Function |
 |---|---|
 | `tacz_wildcard_loot.js` | Adds randomized TaCZ guns, attachments, spare ammo, and rare Jury-Rigged parts to structure containers. |
 | `tacz_mob_ammo_drops.js` | Makes hostile mobs drop ammo for carried calibers, favoring held guns and low reserves. |
@@ -67,17 +71,11 @@ Regular anvil is primarily used for weapon fusions and welding. No custom or spe
 
 ## Highlights
 
-- **Exploration rewards:** structure chests can contain usable, lightly kitted guns.
+- **Exploration rewards:** structure chests including open ones can contain usable, customized guns with varying attachments.
 - **Loadout-aware ammo:** drops favor the gun in your hand and help when reserves are low.
-- **Anvil kitbashing:** fuse guns (the stable core); welding and composites are opt-in via `CONFIG.fusionModes`.
+- **Anvil kitbashing:** fuse guns with ease. Welding and composites are opt-in via `CONFIG.fusionModes`.
 - **Progression:** catalysts, donor-level inheritance, level-scaled stats, and one-shot ability identity rolls.
-- **Pack-friendly:** rates, weights, chances, caps, catalysts, and ability gates are configurable.
-
-## Gun Pack Compatibility
-
-* **What is included:** The release archive contains only the KubeJS scripts. Third-party TaCZ gun packs are not bundled in the download.
-* **Default support:** Works out of the box with the built-in **Timeless and Classics Zero** gun pack.
-* **Additional gun packs:** The loot tables and anvil fusion system detect loaded TaCZ firearms automatically, so any extra gun packs you add to your instance (such as the 3-pack, 213-gun setup shown in the showcase videos) will work without extra setup.
+- **Pack-friendly:** rates, weights, chances, caps, catalysts, and ability gates are HIGHLY configurable.
 
 ## Showcase Videos
 
@@ -86,14 +84,14 @@ Early demonstration of combining weapons at the anvil and scaling base stats.
 
 https://www.youtube.com/watch?v=NiuoTjjG1I0&pp=0gcJCUYIAYcqIYzv
 
-### TaCZ: Bizarre Trifecta
+### TaCZ: Bizarre Trifecta (no edits)
 Gameplay showcase testing fused weapon setups and attachment combinations in combat. Currently, only gun-gun fusion is enabled since attachment-attachment and gun-attachment fusions are work-in-progress and highly experimental, may contain bugs.
 
 https://www.youtube.com/watch?v=SygBga3-XLI
 
 More demonstrations and updates are posted on YouTube at [@scorevi](https://www.youtube.com/@scorevi). My uploads will be occasional, so don't expect some regular schedule :>
 
-## Documentation
+## Documentation (must read!)
 
 - [Documentation index](docs/README.md)
 - [Player guides](docs/README.md#players)
@@ -117,7 +115,7 @@ A: Not planned. Time will tell.
 
 Q: Do you have discord server?
 
-A: None at the moment, probably will not have one I'm strictly on forums or YouTube.
+A: None at the moment, probably will not have one I'm strictly on forums or YouTube. And I don't want to deal with so much personal messages.
 
 Q: Can you add 'x' feature?
 
@@ -129,23 +127,15 @@ A: **Refer to the documentation first before opening an issue unless your logs s
 
 Q: Will it conflict with 'x' mod?
 
-A: No since it isn't a java mod. If it conflicts with a pack's KubeJS script, be warned I may not provide support for that.
+A: No since it isn't a java mod, duh. If it conflicts with a pack's KubeJS script, be warned I may not provide support for that.
 
-## AI Usage Disclosure
+Q: When will you update this addon?
 
-Ah yes, the most **important** out of all sections listed here since the rise of uncanny slop.
-**The core concept, system design, scaling math, mod ecosystem research, in-game playtesting, and balance tuning for this addon were created manually by the author.**
-
-AI tools were used in a light-to-moderate capacity for:
-* **Repetitive code and configuration structure:** Generating boilerplate patterns and laying out editable `CONFIG` blocks.
-* **Release packaging scripts:** Automating comment stripping and zip packaging for public builds.
-* **English documentation:** Editing grammar and phrasing in `README.md` and `docs/` as a non-native English speaker (I'm from SE Asia).
-
-Every script, formula, and configuration value was manually reviewed, adjusted, and verified in-game before release. No AI-generated images, icons, or video assets are used anywhere in this project, not even the showcases.
+A: Whenever I'm free and in mood, and motivated enough to do so.
 
 ## License
 
-Copyright (c) 2026 SP SCOREVI. All rights reserved. See [LICENSE.md](LICENSE.md).
+Copyright (c) 2026-2027 SP SCOREVI. All rights reserved. See [LICENSE.md](LICENSE.md).
 
 ## Credits
 
@@ -154,4 +144,17 @@ Copyright (c) 2026 SP SCOREVI. All rights reserved. See [LICENSE.md](LICENSE.md)
 - [GunsmithLib](https://github.com/ChloePrime/GunsmithLib) - ChloePrime
 
 ## Authors
-- @scorevi (lead developer)
+- @scorevi (lead developer, no one else)
+- AI tools for the repetitive, boring detail stuff!
+
+## AI Usage Disclosure
+
+Ah yes, the most **important** out of all sections listed here since the rise of uncanny slop.
+**The core concept, system design, scaling math, mod ecosystem research, in-game playtesting, and balance tuning for this addon were created manually by me.**
+
+AI tools were used in a light-to-moderate capacity for these:
+* **Repetitive code and configuration structure:** Generating boilerplate patterns and laying out editable `CONFIG` blocks. Yeah you heard that right, I am messy with code but kinda perfectionist in some ways.
+* **Release packaging scripts:** Automating comment stripping and zip packaging for public builds. Ugh, just like assembling a damn thing.
+* **English documentation:** Editing grammar and phrasing in `README.md` and `docs/` as a non-native English speaker (I'm from SE Asia, so expect some inconsistent grammar).
+
+Every script, formula, and configuration value are manually reviewed, adjusted, and verified in-game before release. Lots of testing, lots of generic worlds out there when I want to chill out. No AI-generated images, icons, or video assets are used anywhere in this project, not even the showcases. I don't have enough funds like the bros out there to waste on such thing. Rather be doing that in Paint.NET.
