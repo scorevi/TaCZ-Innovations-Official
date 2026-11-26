@@ -19,7 +19,7 @@ Each anvil input combination is toggled independently under `CONFIG.fusionModes`
 | `gunAttachment` | B: gun + attachment weld | `false` |
 | `attachmentAttachment` | C: attachment + attachment composite | `false` |
 
-- Only Mode A ships enabled. Modes B and C are experimental — enable them deliberately. B and C only unlock on an explicit `true`; `gunGun` stays on unless set to `false`.
+- Only Mode A ships enabled. Modes B and C are experimental. Enable them deliberately with caution. B and C only unlock on an explicit `true`; `gunGun` stays on unless set to `false`.
 - Mode D (cap catalysts) is gated separately by `CONFIG.catalyst.enabled`.
 - Disabling a mode only affects new anvil operations; existing fused items keep their stored data and remain catalyst-upgradable.
 
