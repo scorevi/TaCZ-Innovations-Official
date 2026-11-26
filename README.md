@@ -30,6 +30,20 @@ Built for native TaCZ 1.21.1 (1.2.0+). No LootJS and no extra gun mods required.
 - **Progression:** catalysts, donor-level inheritance, level-scaled stats, and one-shot ability identity rolls.
 - **Pack-friendly:** rates, weights, chances, caps, catalysts, and ability gates are configurable.
 
+## Showcase Videos
+
+### TaCZ: Anvil Fusion - Proof of Concept
+Early demonstration of combining weapons at the anvil and scaling base stats.
+
+https://www.youtube.com/watch?v=AbCdEf12345
+
+### TaCZ: Bizarre Trifecta
+Gameplay showcase testing fused weapon setups and attachment combinations in combat. Currently, only gun-gun fusion is enabled since attachment-attachment and gun-attachment fusions are work-in-progress.
+
+https://www.youtube.com/watch?v=XyZ98765432
+
+More demonstrations and updates are posted on YouTube at [@scorevi](https://www.youtube.com/@scorevi).
+
 ## Requirements
 
 - Minecraft 1.21.1 / NeoForge 21.1.x
