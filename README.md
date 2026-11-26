@@ -2,7 +2,7 @@
 
 **Global loot table for guns and ammo, smart mob ammo drops, and anvil kitbashing for Timeless and Classics Zero (TaCZ).**
 
-A modular set of KubeJS server scripts for Minecraft 1.21.1 / NeoForge, exclusively made for **single-player** only. They add TaCZ guns and attachments to structure loot, keep players supplied with ammo, and turn the anvil into a kitbashing bench with fusion levels, catalysts, and level-scaled abilities.
+A modular set of KubeJS server scripts for Minecraft 1.21.1 / NeoForge, exclusively made for **single-player** only. They add TaCZ guns and attachments to structure loot, keep players supplied with ammo, and turn the anvil into a kitbashing / welding bench with fusion levels, catalysts, and level-scaled abilities.
 
 Built for native TaCZ 1.21.1 (1.2.0+). No LootJS and no extra gun mods required.
 
@@ -13,7 +13,7 @@ Why I've built this: The sole reason why I made these mods is because I've been 
 ## Screenshots (not limited to)
 
 ### Anvil Kitbashing
-Regular anvil is primarily used for arsenal fusions. No custom or specialized workbench is required.
+Regular anvil is primarily used for weapon fusions and welding. No custom or specialized workbench is required.
 
 #### Gun + Gun Fusion
 <img width="932" height="681" alt="image" src="https://github.com/user-attachments/assets/bfaf7732-3cba-44a2-8983-d9a1a2ad45f1" />
@@ -24,7 +24,7 @@ Regular anvil is primarily used for arsenal fusions. No custom or specialized wo
 
 ### Gun + Attachment Fusion (WIP)
 
-**Warning: Gun may show weird attachment positional issues when welded with Jury-Rigged (off-spec) attachments. Once an attachment fusion is applied to a gun, it is permanently attached. It cannot be detached.**
+**Warning: Gun may show weird attachment positional issues when welded with Jury-Rigged (off-spec) attachments. Once an attachment fusion is welded to a gun, it is permanently attached. It cannot be detached.**
 
 **Jury-rigged welded gun:**
 
