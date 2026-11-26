@@ -12,7 +12,10 @@ Why I've built this: The sole reason why I made these mods is because I've been 
 
 ## Screenshots (not limited to)
 
-### Gun + Gun Fusion
+### Anvil Kitbashing
+Regular anvil is primarily used for arsenal fusions. No custom or specialized workbench is required.
+
+#### Gun + Gun Fusion
 <img width="932" height="681" alt="image" src="https://github.com/user-attachments/assets/bfaf7732-3cba-44a2-8983-d9a1a2ad45f1" />
 <img width="1882" height="974" alt="image" src="https://github.com/user-attachments/assets/9d417c3c-8b0c-451c-8bfa-13b71fb4640a" />
 
