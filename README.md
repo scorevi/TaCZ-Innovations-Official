@@ -144,7 +144,7 @@ A: No since it isn't a java mod, duh. If it conflicts with a pack's KubeJS scrip
 
 Q: When will you update this addon?
 
-A: Whenever I'm free and in mood, and motivated enough to do so.
+A: Mostly bug fixes and compatibility. And regarding new features, whenever I'm free and in mood, and motivated enough to do so.
 
 ## License
 
