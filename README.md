@@ -146,11 +146,11 @@ A: **Refer to the documentation first before opening an issue unless your logs s
 
 * Q: Will it conflict with 'x' mod?
 
-A: No since it isn't a java mod, duh. If it conflicts with a pack's KubeJS script, be warned I may not provide support for that.
+A: No since it isn't a java mod, duh. If it conflicts with a pack's KubeJS script or another gun mod, be warned I may not provide support for that.
 
 * Q: When will you update this addon?
 
-A: Mostly bug fixes and compatibility. And regarding new features, whenever I'm free and in mood, and motivated enough to do so.
+A: Refer to this thread for updates: [https://github.com/scorevi/TaCZ-Innovations-Official/discussions](https://github.com/scorevi/TaCZ-Innovations-Official/discussions/1)
 
 ## License
 
