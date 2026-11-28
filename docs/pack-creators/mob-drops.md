@@ -42,6 +42,6 @@ Adds ammo drops on hostile mob death for calibers carried by the player. It is i
 
 ## Integration notes
 
-- Optional: Curios, Sophisticated Backpacks/Storage.
+- Optional: Curios, Sophisticated Backpacks.
 - No config dependency on wildcard loot or kitbash.
 - If drops are too frequent, check whether other mods also add ammo recovery or ammo-save effects.
