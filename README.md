@@ -1,8 +1,8 @@
 # TaCZ Innovations
 
-**An addon containing unconventional prototype mods for Timeless and Classics Zero (TaCZ), powered by KubeJS.**
+**A KubeJS addon containing unconventional prototype mods for Timeless and Classics Zero (TaCZ)**
 
-What started as a **personal** mod of mine, now a highly modular bundle of server scripts for Minecraft 1.21.1 / NeoForge and TaCZ 1.2.0+, exclusively made for **single-player** only. 
+What started as a **personal** mod of mine, now a highly modular bundle of mods for **Minecraft NeoForge 1.21.1** and **TaCZ 1.2.0+**, exclusively made for **single-player** only. 
 
 It adds TaCZ guns and attachments to structure loot from all kinds of vanilla and modded structures existing in your pack with balance, keep your arsenal supplied with ammo on the go, and turns the anvil into a kitbashing / welding bench with fusion levels, catalysts, and level-scaled abilities. Yeah who actually makes the regular anvil do something beyond it's intended job?! You serious?!
 
