@@ -1,6 +1,6 @@
 # TaCZ Innovations
 
-**A KubeJS addon containing unconventional prototype mods for Timeless and Classics Zero (TaCZ)**
+**An addon containing unconventional prototype mods for Timeless and Classics Zero (TaCZ), powered by KubeJS.**
 
 What started as a **personal** mod of mine, now a highly modular bundle of mods for **Minecraft NeoForge 1.21.1** and **TaCZ 1.2.0+**, exclusively made for **single-player** only. 
 
