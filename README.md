@@ -45,6 +45,8 @@ Regular anvil is primarily used for weapon fusions and welding. No custom or spe
 - At least one gun pack (Note: TaCZ already includes a default pack)
 
 ### Optional:
+- Sophisticated Backpacks / Storage for scanning backpacks and nearby storages
+- Curios API
 - GunsmithLib 7.1.3+ for **fusion abilities** 
   * Fusion and loot still work without it
  
