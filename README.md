@@ -118,31 +118,37 @@ Use the GitHub issue tracker:
 
 Include Minecraft, NeoForge, KubeJS, TaCZ, and GunsmithLib versions, your gun pack/addon list, the relevant `latest.log` section, and reproduction steps.
 
-Q: Will you upload this addon to **CurseForge** or Modrinth?
+### **Frequently Asked Questions**
+
+* Q: Loading takes so much time after install (on larger packs like ATM 10, TNP LL8, etc.)
+
+A: The addon is performing a cache update via reload to make sure the global loot table loaded properly and prevent race conditions or missing intended loot. Certain scripts from the pack may prioritize their scripts first before everything else. Check `latest.log` and if it keeps on reloading, causes game to freeze for long time, report it to the Issues tracker.
+
+* Q: Will you upload this addon to **CurseForge** or Modrinth?
 
 A: At the right time, so give me a break :)
 
-Q: Can you port this as a Java mod or do a backport?
+* Q: Can you port this as a Java mod or do a backport?
 
 A: Not planned. Time will tell.
 
-Q: Do you have discord server?
+* Q: Do you have discord server?
 
 A: None at the moment, probably will not have one I'm strictly on forums or YouTube. And I don't want to deal with so much personal messages.
 
-Q: Can you add 'x' feature?
+* Q: Can you add 'x' feature?
 
 A: No, unless it is viable and innovative, and of course in-demand. And really depends on how busy I am in the real world.
 
-Q: World bugged out or item isn't outputting, glitching or has weird UI bugs on the guns
+* Q: World bugged out or item isn't outputting, glitching or has weird UI bugs on the guns
 
 A: **Refer to the documentation first before opening an issue unless your logs show KubeJS errors.** About the guns' attachment bugging out, that's normal and expected if you welded a non-native, unsupported attachment to the gun. Anything about gun packs' weapon balancing or attachment issue, I'm off-limits. I only provide the foundation.
 
-Q: Will it conflict with 'x' mod?
+* Q: Will it conflict with 'x' mod?
 
 A: No since it isn't a java mod, duh. If it conflicts with a pack's KubeJS script, be warned I may not provide support for that.
 
-Q: When will you update this addon?
+* Q: When will you update this addon?
 
 A: Mostly bug fixes and compatibility. And regarding new features, whenever I'm free and in mood, and motivated enough to do so.
 
